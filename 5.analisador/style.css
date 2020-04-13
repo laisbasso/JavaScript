@@ -1,0 +1,55 @@
+body{
+    background: #252075;
+    color:white;
+    font: normal 18px Verdana;
+    text-align: center;
+    padding: 20px;
+}
+
+pre{
+    font: normal 18px Verdana;
+
+}
+
+select{
+    width: 152px;
+    font: normal 12px Verdana;
+}
+
+section{
+    background: white;
+    color: black;
+    border-radius: 20px;
+    margin: auto;
+    padding: 20px;
+    width: 500px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.295);
+}
+
+footer{
+    padding: 20px;
+    font-style: italic;
+}
+
+input#add{
+    background: #252075;
+    color: white;
+    font: normal 18px Verdana;
+    width: auto;
+    height: 35px;
+    border-radius: 25px; 
+}
+
+input#fim{
+    background: #252075;
+    color: white;
+    font: normal 18px Verdana;
+    width: auto;
+    height: 35px;
+    border-radius: 25px; 
+}
+
+input#num{
+    width: 60px;
+    font: normal 12px Verdana;
+}

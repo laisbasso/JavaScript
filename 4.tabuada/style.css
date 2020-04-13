@@ -1,0 +1,36 @@
+body{
+    background: #1d5840dc;
+    color:white;
+    font: normal 18px Verdana;
+    text-align: center;
+    padding: 20px;
+}
+
+section{
+    background: white;
+    color: black;
+    border-radius: 20px;
+    margin: auto;
+    padding: 20px;
+    width: 300px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.295);
+}
+
+footer{
+    padding: 20px;
+    font-style: italic;
+}
+
+input#gerar{
+    background: #1d5840dc;
+    color: white;
+    font: normal 16px Verdana;
+    width: auto;
+    height: 35px;
+    border-radius: 25px;
+    
+}
+
+input#num{
+    width: 60px;
+}
