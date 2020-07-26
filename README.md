@@ -17,3 +17,5 @@ Exibe a tabuada do número escolhido.
 
 * :1234: [Analisador de números](https://github.com/laisbasso/JavaScript-CeV/tree/master/5.analisador "Analisador de números")  
 O usuário pode interagir entrando com valores numéricos, ao final a página mostrará uma análise dos números digitados, como soma total e média.
+
+Você pode interagir com as páginas pelo [CodePen](https://codepen.io/collection/XdJEoz?grid_type=list "CodePen").
